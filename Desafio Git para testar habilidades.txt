@@ -1,6 +1,0 @@
-Desafio Git para testar habilidades 
-
-Adicione um Arquivo de Texto:
-Crie um arquivo de texto e adicione uma descrição do projeto (pode ser algo simples como "Desafio Git para testar habilidades").
-Adicione e faça um commit desse arquivo com uma mensagem adequada.
-E depois faça o Push para o repositório remoto
